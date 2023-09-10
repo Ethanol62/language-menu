@@ -1,7 +1,5 @@
 # END OF WASH NOTIFICATION
 
-## Introduction
-
 A simple language menu for your website.
 
 
