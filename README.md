@@ -1,4 +1,4 @@
-# END OF WASH NOTIFICATION
+# SIMPLE LANGUAGE MENU
 
 A simple language menu for your website.
 
